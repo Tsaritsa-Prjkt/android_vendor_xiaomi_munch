@@ -202,9 +202,15 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     audio.primary.munch \
     liba2dpoffload_munch \
+    libacdb-fts \
+    libacdbloader \
+    libacdbrtac \
+    libadiertac \
+    libaudcal \
     libaudio_log_utils \
     libaudioroute_ext \
     libresampler \
+    libssrec \
     vendor.qti.hardware.audiohalext@1.0 \
     libxlog \
     com.qti.actuator.munch_ofilm_imx582_dw9800v_wide_actuator \
