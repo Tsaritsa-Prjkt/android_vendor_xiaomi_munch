@@ -201,6 +201,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     audio.primary.munch \
+    sound_trigger.primary.kona \
     liba2dpoffload_munch \
     libacdb-fts \
     libacdbloader \
@@ -209,6 +210,10 @@ PRODUCT_PACKAGES += \
     libaudcal \
     libaudio_log_utils \
     libaudioroute_ext \
+    libcapiv2svacnn \
+    libgcs-calwrapper \
+    libgcs-ipc \
+    libgcs \
     libresampler \
     libssrec \
     vendor.qti.hardware.audiohalext@1.0 \
